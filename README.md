@@ -1,4 +1,4 @@
-### This data nalysis projecct is based on Kaggle Competition: 
+### This data analysis project is based on Kaggle Competition: 
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
 All the datasets could be found from that project. Unzip the data into the subfolder "store-sales-time-series-forecasting". I will not post data in the repo because the size is not trivial.
